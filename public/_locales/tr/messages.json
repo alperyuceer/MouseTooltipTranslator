@@ -81,10 +81,10 @@
 		"message": "Mouseover Text Highlight Color"
 	},
 	"VOICE______________________________________": {
-		"message": "VOICE                                      "
+		"message": "SES                                      "
 	},
 	"VOICE": {
-		"message": "VOICE"
+		"message": "SES"
 	},
 	"Voice_Volume": {
 		"message": "Ses Seviyesi"
@@ -102,10 +102,10 @@
 		"message": "Voice for "
 	},
 	"ADVANCED______________________________________": {
-		"message": "ADVANCED                                      "
+		"message": "GELİŞMİŞ                                      "
 	},
 	"ADVANCED": {
-		"message": "ADVANCED"
+		"message": "GELİŞMİŞ"
 	},
 	"Translate_Writing_When": {
 		"message": "Translate Writing When"
@@ -117,94 +117,94 @@
 		"message": "Altyazıyı Algıla"
 	},
 	"Detect_PDF": {
-		"message": "Detect PDF"
+		"message": "PDF Algıla"
 	},
 	"Mouseover_Pause_Subtitle": {
 		"message": "Mouseover Pause Subtitle"
 	},
 	"Mouseover_Text_Type_Swap_Key": {
-		"message": "Mouseover Text Type Swap Key"
+		"message": "Mouseover Metin Türü Değiştirme Tuşu"
 	},
 	"Tooltip_Info_Source_Text": {
 		"message": "İpucu Kaynak Metni"
 	},
 	"Tooltip_Info_Source_Language": {
-		"message": "Tooltip Info Source Language"
+		"message": "Araç İpucu Bilgisi Kaynak Dili"
 	},
 	"Tooltip_Info_Transliteration": {
-		"message": "Tooltip Info Transliteration"
+		"message": "Araç İpucu Transliterasyonu"
 	},
 	"Tooltip_Interval_Time": {
 		"message": "İpucu Süre Aralığı"
 	},
 	"EXCLUDE______________________________________": {
-		"message": "EXCLUDE                                      "
+		"message": "HARİÇ TUT                                      "
 	},
 	"EXCLUDE": {
-		"message": "EXCLUDE"
+		"message": "HARİÇ TUT"
 	},
 	"Exclude_Language": {
 		"message": "Dili Hariç Tut"
 	},
 	"Exclude_Website": {
-		"message": "Exclude Website"
+		"message": "Websiteyi Hariç Tut"
 	},
 	"About______________________________________": {
-		"message": "About                                      "
+		"message": "Hakkında                                      "
 	},
 	"How_to_use": {
-		"message": "How to use"
+		"message": "Nasıl kullanılır"
 	},
 	"Check_how_to_use_this_extension": {
-		"message": "Check how to use this extension"
+		"message": "BU uzantının nasıl kullanılacağını kontrol et"
 	},
 	"PDF_Viewer": {
-		"message": "PDF Viewer"
+		"message": "PDF Görüntüleyici"
 	},
 	"Translate_local_PDF_file": {
-		"message": "Translate local PDF file"
+		"message": "Yerel PDF dosyasını çevir"
 	},
 	"Ebook_Reader": {
-		"message": "Ebook Reader"
+		"message": "E-kitap Okuyucu"
 	},
 	"Translate_local_ebook_file": {
-		"message": "Translate local ebook file"
+		"message": "Yerel e-kitap dosyasını çevir"
 	},
 	"Twitter": {
 		"message": "Twitter"
 	},
 	"Retweet_twitter_post": {
-		"message": "Retweet twitter post"
+		"message": "Twitter gönderisini retweetle"
 	},
 	"Review_Page": {
-		"message": "Review Page"
+		"message": "İnceleme Sayfası"
 	},
 	"Comment_on_this_extension": {
-		"message": "Comment on this extension"
+		"message": "Bu uzantı hakkında yorum yapın"
 	},
 	"Source_code": {
-		"message": "Source code"
+		"message": "Kaynak kodu"
 	},
 	"Check_source_code_in_github": {
-		"message": "Check source code in github"
+		"message": "Github'daki kaynak kodunu kontrol et"
 	},
 	"Privacy_Policy": {
-		"message": "Privacy Policy"
+		"message": "Gizlilik Politikası"
 	},
 	"User_privacy_policy": {
-		"message": "User privacy policy"
+		"message": "Kullanıcı gizlilik politikası"
 	},
 	"Review______________________________________": {
-		"message": "Review                                      "
+		"message": "İncele                                      "
 	},
 	"Review_this": {
-		"message": "Review this"
+		"message": "Bunu inceleyin"
 	},
 	"Developer_love_criticism": {
-		"message": "Developer love criticism"
+		"message": "Geliştirici eleştirileri sever"
 	},
 	"Title______________________________________": {
-		"message": "Title                                      "
+		"message": "Başlık                                      "
 	},
 	"appName": {
 		"message": "Fare araç ipucu çevirmen"
